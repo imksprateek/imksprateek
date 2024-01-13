@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm K S Prateek</h1>
-<h3 align="center">A sophomore Bachelor of Engineering student, on a passionate journey to explore and excel in the exciting realm of DevOps.</h3>
+<!--<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />  I'm Prateek</h1> -->
+<h1 align="center">Hi there, I'm <a href="https://hemant.codes">Prateek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 K S Prateek | 💻 DevOps enthusiast | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">A sophomore Bachelor of Engineering student on a passionate journey to explore and excel in the exciting realm of DevOps.</h3>
 <p align="center">
   <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Cool Programming GIF" width="300" height="200" style="float: right;">
 </p>
@@ -8,7 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imksprateek" alt="imksprateek" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imksprateek" target="blank"><img src="https://img.shields.io/twitter/follow/imksprateek?logo=twitter&style=for-the-badge" alt="imksprateek" /></a> </p>
+<p align="center">
+   <a href="https://twitter.com/imksprateek"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/imksprateek?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=Follow @imksprateek"></a>
+</p>
 
 - 🔭 I’m currently working on [Lift & Shift Application Workload on AWS](https://github.com/imksprateek/Lift-shift-workload-AWS-project.git)
 
@@ -41,3 +45,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imksprateek&show_icons=true&locale=en" alt="imksprateek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imksprateek&" alt="imksprateek" /></p>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
