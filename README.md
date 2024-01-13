@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imksprateek&label=Profile%20views&color=0e75b6&style=flat" alt="imksprateek" /> </p>
 
+<p align="left"> <a href="https://twitter.com/imksprateek" target="blank"><img src="https://img.shields.io/twitter/follow/imksprateek?logo=twitter&style=for-the-badge" alt="imksprateek" /></a> </p>
+
 - 🔭 I’m currently working on [Lift & Shift Application Workload on AWS](https://github.com/imksprateek/Lift-shift-workload-AWS-project.git)
 
 - 🌱 I’m currently learning **AWS PAAS and SAAS**
@@ -17,7 +19,7 @@
 
 - 📫 How to reach me **ksprateek2004@gmail.com**
 
-- ⚡ Fun fact: **I document my journey on Twitter #LearnInPublic**
+- ⚡ Fun fact **I document my journey on Twitter #LearnInPublic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
