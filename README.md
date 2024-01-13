@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **DevOps and Cloud**
 
-- 👨‍💻 My portfolio site [ksprateek.me/my_personal_site](ksprateek.me/portfolio)
+- 👨‍💻 My portfolio site [ksprateek.me/portfolio/](ksprateek.me/portfolio/)
 
 - 💬 Ask me about **Linux, AWS, Python**
 
