@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imksprateek&show_icons=true&locale=en&theme=radical" alt="imksprateek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imksprateek&" alt="imksprateek" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imksprateek&" alt="imksprateek" /></p> -->
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
