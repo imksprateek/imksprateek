@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ksprateek2004@gmail.com**
 
-- ⚡ Fun fact **I document my journey on Twitter #LearnInPublic**
+- ⚡ Fun fact: **I document my journey on Twitter #LearnInPublic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
