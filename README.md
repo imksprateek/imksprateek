@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **DevOps and Cloud**
 
-- 👨‍💻 My portfolio site [ksprateek.me/portfolio/](http://ksprateek.me/portfolio/)
+- 👨‍💻 My portfolio site [https://ksprateek.me/portfolio/](https://ksprateek.me/portfolio/)
 
 - 💬 Ask me about **Linux, AWS, Python**
 
