@@ -22,11 +22,11 @@
 
 - 🤝 I’m looking for help with **DevOps and Cloud**
 
-- 👨‍💻 My portfolio site [ksprateek.me](https://ksprateek.me)
+- 👨‍💻 My portfolio site: [ksprateek.me](https://ksprateek.me)
 
 - 💬 Ask me about **Linux, AWS, Python**
 
-- 📫 How to reach me **ksprateek2004@gmail.com**
+- 📫 How to reach out to me: **ksprateek2004@gmail.com**
 
 - ⚡ Fun fact: **I document my journey on Twitter #LearnInPublic**
 
