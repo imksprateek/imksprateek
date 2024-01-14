@@ -3,7 +3,7 @@
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 K S Prateek | 💻 DevOps enthusiast | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <h3 align="center">A sophomore Bachelor of Engineering student on a passionate journey to explore and excel in the exciting realm of DevOps.</h3>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Cool Programming GIF" width="300" height="200" style="float: right;">
+  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Cool Programming GIF" height="300" style="float: right;">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imksprateek&label=Profile%20views&color=0e75b6&style=flat" alt="imksprateek" /> </p>
