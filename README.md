@@ -1,5 +1,5 @@
 <!--<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />  I'm Prateek</h1> -->
-<h1 align="center">Hi there, I'm <a href="https://ksprateek.me/portfolio/">Prateek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there, I'm <a href="ksprateek.me">Prateek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 K S Prateek | 💻 DevOps enthusiast | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <h3 align="center">A sophomore Bachelor of Engineering student on a passionate journey to explore and excel in the exciting realm of DevOps.</h3>
 <p align="center">
