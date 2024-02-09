@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Lift & Shift Application Workload on AWS](https://github.com/imksprateek/Lift-shift-workload-AWS-project.git)
 
-- 🌱 I’m currently learning **AWS PAAS and SAAS**
+- 🌱 I’m currently learning **Continuous Integration with Jenkins**
 
 - 🧩 I’m looking to collaborate on **Cloud Native projects**
 
