@@ -32,7 +32,7 @@
 - ⚡ Fun fact: **I document my journey on Twitter #LearnInPublic**
 
 
-### Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
