@@ -32,16 +32,10 @@
 - ⚡ Fun fact: **I document my journey on Twitter #LearnInPublic**
 
 
-# Blogs posts
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imksprateek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imksprateek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imksprateek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imksprateek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imksprateek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imksprateek" height="30" width="40" /></a>
-</p> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imksprateek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imksprateek" height="30" width="40" /></a>
@@ -59,10 +53,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imksprateek&show_icons=true&locale=en&theme=radical" alt="imksprateek" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imksprateek&" alt="imksprateek" /></p> -->
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-     <!--   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /> -->
   <img src="Bottom.svg" alt="Github Stats" />
 </p>
