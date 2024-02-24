@@ -34,6 +34,7 @@
 
 ### 📕Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lift and Shift Strategy: Migrating a Multi-Tier Web App to AWS ☁️](https://ksprateek.medium.com/aws-lift-and-shift-strategy-migrating-a-multi-tier-web-app-to-aws-%EF%B8%8F-b51d2fc36da4?source=rss-094775c6fc3d------2)
 - [🚀AWS Lift and Shift Strategy: Migrating a Multi-Tier Web App to AWS ☁️](https://ksprateek.hashnode.dev/awsliftandshift)
 <!-- BLOG-POST-LIST:END -->
 
