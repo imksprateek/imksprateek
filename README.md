@@ -25,7 +25,7 @@
 
 - 📝 I write articles on [https://ksprateek.hashnode.dev/](https://ksprateek.hashnode.dev/)
 
-- 💬 Ask me about **Linux, AWS, Python**
+- 💬 Ask me about **Linux, AWS, Java, Python**
 
 - 📫 How to reach out to me: **ksprateek2004@gmail.com**
 
