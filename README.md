@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [**Data Structures and Algorithms with Java**](https://github.com/imksprateek/DSA-with-Java.git)
 
-- 🌱 I’m currently learning [**Backend development with Java Spring boot**](https://github.com/imksprateek/Backend-Dev-Springboot.git)
+- 🌱 I’m currently learning [**Backend development with Spring Boot**](https://github.com/imksprateek/Backend-Dev-Springboot.git)
 
 - 🧩 I’m looking to collaborate on **Cloud Native projects**
 
