@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning [**Data Structures and Algorithms with Java**](https://github.com/imksprateek/DSA-with-Java.git)
 
-- 🧩 I’m looking to collaborate on **Cloud Native projects**
+- 🧩 I’m looking to collaborate on **Backend and Cloud Native projects**
 
 - 🤝 I’m looking for help with **DevOps and Cloud**
 
