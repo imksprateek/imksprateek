@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://ksprateek.me">Prateek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there, I'm <a href="https://ksprateek.studio/">Prateek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 K S Prateek | 💻 Backend and DevOps Aficionado  | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <h3 align="center">A Bachelor of Engineering student, passionate about building scalable systems, automating DevOps workflows and leveraging Cloud technologies</h3>
 <p align="center">
@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for help with **DevOps and Cloud**
 
-- 👨‍💻 My portfolio site: [ksprateek.me](https://ksprateek.me)
+- 👨‍💻 My portfolio site: [ksprateek.studio](https://ksprateek.studio/)
 
 - 📝 I write articles on [https://ksprateek.hashnode.dev/](https://ksprateek.hashnode.dev/)
 
