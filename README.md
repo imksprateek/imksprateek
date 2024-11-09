@@ -13,9 +13,9 @@
    <a href="https://twitter.com/imksprateek"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/imksprateek?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=Follow @imksprateek"></a>
 </p>
 
-- 🔭 I’m currently working on [**Backend development with Spring Boot**](https://github.com/imksprateek/Backend-Dev-Springboot.git)
+- 🔭 I’m currently working on [**Data Structures and Algorithms with Java**](https://github.com/imksprateek/DSA-with-Java.git) and [**Backend development with Spring Boot**](https://github.com/imksprateek/Backend-Dev-Springboot.git)
 
-- 🌱 I’m currently learning [**Data Structures and Algorithms with Java**](https://github.com/imksprateek/DSA-with-Java.git)
+- 🌱 I’m currently learning **Microservices with Spring**
   <!-- 🌱 I’m currently learning **DSA with Java** -->
 
 - 🧩 I’m looking to collaborate on **Backend and Cloud Native projects**
