@@ -37,9 +37,6 @@
 
 ### 📕Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Set up a Kubernetes Cluster on AWS with Kops ☸️](https://ksprateek.medium.com/set-up-a-kubernetes-cluster-on-aws-with-kops-%EF%B8%8F-35ab34c89a78?source=rss-094775c6fc3d------2)
-- [Deep Dive into My Containerization Process for a Spring Boot MVC Application](https://ksprateek.medium.com/deep-dive-into-my-containerization-process-for-a-spring-boot-mvc-application-65ed412b5f6f?source=rss-094775c6fc3d------2)
-- [AWS Lift and Shift Strategy: Migrating a Multi-Tier Web App to AWS ☁️](https://ksprateek.medium.com/aws-lift-and-shift-strategy-migrating-a-multi-tier-web-app-to-aws-%EF%B8%8F-b51d2fc36da4?source=rss-094775c6fc3d------2)
 - [🚀AWS Lift and Shift Strategy: Migrating a Multi-Tier Web App to AWS ☁️](https://ksprateek.hashnode.dev/awsliftandshift)
 <!-- BLOG-POST-LIST:END -->
 
