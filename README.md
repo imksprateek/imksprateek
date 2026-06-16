@@ -1,37 +1,33 @@
 <h1 align="center">Hi there, I'm <a href="https://ksprateek.studio/">Prateek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 K S Prateek | 💻 Backend and DevOps Aficionado  | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-<h3 align="center">A Bachelor of Engineering student, passionate about building scalable systems, automating DevOps workflows and leveraging Cloud technologies</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 K S Prateek | 💻 SRE @ Nutanix  | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">Systems Reliability Engineer at Nutanix focused on improving reliability, resiliency, operational excellence, troubleshooting large-scale distributed systems.</h3>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Cool Programming GIF" height="300" style="float: right;">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imksprateek&label=Profile%20views&color=0e75b6&style=flat" alt="imksprateek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imksprateek&theme=radical" alt="imksprateek" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imksprateek&theme=radical" alt="imksprateek" /></a> </p> -->
 
 <!-- <p align="center">
    <a href="https://twitter.com/imksprateek"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/imksprateek?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=Follow @imksprateek"></a>
 </p> -->
 
-- 🔭 I’m currently working on [**Data Structures and Algorithms with Java**](https://github.com/imksprateek/DSA-with-Java.git)
+- 🔭 I’m currently working on **Distributed Systems and Cloud Infrastructure**
   <!-- and [**Backend development with Spring Boot**](https://github.com/imksprateek/Backend-Dev-Springboot.git) -->
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently exploring **Distributed systems internals, Root Cause Analysis (RCA) and production-scale Kubernetes platforms**
   <!-- 🌱 I’m currently learning **DSA with Java** -->
 
 - 🧩 I’m looking to collaborate on **Backend and Cloud Native projects**
 
-- 🤝 I’m looking for help with **DevOps and Cloud**
-
-- 👨‍💻 My portfolio site: [ksprateek.studio](https://ksprateek.studio/)
+- 💡 Previously I worked extensively on **Backend development, DevOps tooling and Cloud-native technologies**
 
 - 📝 I write articles on [https://ksprateek.hashnode.dev/](https://ksprateek.hashnode.dev/)
 
-- 💬 Ask me about **Backend Development, Cloud Computing and DevOps**
-
 - 📫 Reach out to me: **ksprateek2004@gmail.com**
 
-- ⚡ Fun fact: **I’m fascinated by everything about the sky**
+- ⚡ Fun fact: **I enjoy traveling, adventure motorcycling, and exploring off-road trails almost as much as I enjoy troubleshooting production systems.**
 
 <hr>
 
@@ -63,9 +59,6 @@
 #### Programming Languages
 ![Java](https://skillicons.dev/icons?i=java "Java") ![Python](https://skillicons.dev/icons?i=python "Python") ![C](https://skillicons.dev/icons?i=c "C") ![Bash](https://skillicons.dev/icons?i=bash "Bash")
 
-#### Frontend Technologies
-![HTML](https://skillicons.dev/icons?i=html "HTML") ![CSS](https://skillicons.dev/icons?i=css "CSS") ![Javascript](https://skillicons.dev/icons?i=js "Javascript") ![Bootstrap](https://skillicons.dev/icons?i=bootstrap "Bootstrap")
-
 #### Backend Technologies
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="SwaggerUI" title="Swagger"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/> 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/> [![Flask](https://skillicons.dev/icons?i=flask "Flask")](https://skillicons.dev) [![Postman](https://skillicons.dev/icons?i=postman "Postman")](https://skillicons.dev) 
 
@@ -74,13 +67,13 @@
 
 
 #### Cloud Computing
-<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>  <img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/>
+[![Linux](https://skillicons.dev/icons?i=linux "Linux")](https://skillicons.dev) <img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>  <img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/> 
 
 #### DevOps
-<img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube" title="SonarQube"/>  <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/> [![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")](https://skillicons.dev) <img width="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/>[![Ansible](https://skillicons.dev/icons?i=ansible "Ansible")](https://skillicons.dev) [![Terraform](https://skillicons.dev/icons?i=terraform "Terraform")](https://skillicons.dev) 
+<img width="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube" title="SonarQube"/>  <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/> [![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")](https://skillicons.dev) <img width="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/>[![Ansible](https://skillicons.dev/icons?i=ansible "Ansible")](https://skillicons.dev) [![Terraform](https://skillicons.dev/icons?i=terraform "Terraform")](https://skillicons.dev) [![Prometheus](https://skillicons.dev/icons?i=prometheus "Prometheus")](https://skillicons.dev) [![Grafana](https://skillicons.dev/icons?i=grafana "Grafana")](https://skillicons.dev)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,linux,vscode,idea,pycharm,replit,vim,anaconda) <img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+![Others](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,replit,vim,anaconda) <img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imksprateek&show_icons=true&locale=en&layout=compact&theme=radical" alt="imksprateek" /></p>
