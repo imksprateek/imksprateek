@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://ksprateek.studio/">Prateek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 K S Prateek | 💻 SRE @ Nutanix  | 🛸 Bangalore, India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-<h3 align="center">Systems Reliability Engineer at Nutanix focused on improving reliability, resiliency, operational excellence, troubleshooting large-scale distributed systems.</h3>
+<h3 align="center">Systems Reliability Engineer at Nutanix focused on improving reliability, resiliency, operational excellence and troubleshooting large-scale distributed systems.</h3>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Cool Programming GIF" height="300" style="float: right;">
 </p>
